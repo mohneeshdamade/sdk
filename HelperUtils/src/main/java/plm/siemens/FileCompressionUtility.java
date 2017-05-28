@@ -34,7 +34,7 @@ public class FileCompressionUtility {
 	 * TODO: Initialize this temp directory with some configuration parameter
 	 * and use the temp folder as a fallback value.
 	 */
-	private static String TMP_DIR = "temp";
+	private static String TMP_DIR = "temporary";
 
 	private static final String ZIP = ".zip";
 
